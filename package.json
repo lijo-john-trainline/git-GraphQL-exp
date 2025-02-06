@@ -1,0 +1,10 @@
+{
+  "name": "git-GraphQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "octokit": "^4.1.0"
+  }
+}

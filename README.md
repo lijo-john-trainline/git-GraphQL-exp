@@ -13,8 +13,8 @@ A GitHub Personal Access Token (PAT) with repo and read:user permissions
 Clone or download the script
 
 ```bash
-git clone https://github.com/your-repo/github-contributions-fetcher.git
-cd github-contributions-fetcher
+git clone https://github.com/lijo-john-trainline/git-GraphQL-exp
+cd git-GraphQL-exp
 ```
 
 ## Install dependencies
@@ -26,8 +26,8 @@ yarn install
 ## Set up variables inside index.js
 
 ```bash
-const GIT_PAT = "your_github_personal_access_token";
-const USER_NAME = "your_github_username";
+const GIT_PAT = "your_token";
+const USER_NAME = "your_user_name";
 ```
 
 ## Running the Script
